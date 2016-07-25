@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+    <div class="page-content">
+      <div class="wrapper">
+        {% if page.url == '/' %}
+          <div align="middle">
+            <img src={{ site.url }}/images/1972-datsun-240z-original.jpg align="middle"></img>
+          </div>
+        {% endif %}
+        <br>
+        {{ content }}
+      </div>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+
+</html>

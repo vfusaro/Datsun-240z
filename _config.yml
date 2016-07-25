@@ -1,0 +1,11 @@
+# Site settings
+title: Z-car restore blog
+email: 
+description: Trying to restore a classic car
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+github_username:  vfusaro
+
+# Build settings
+markdown: kramdown
+permalink: pretty

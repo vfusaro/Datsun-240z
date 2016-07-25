@@ -1,0 +1,15 @@
+---
+layout: post
+title:  This 204Z has the dealer optional AC
+date:   2016-07-03
+categories: cars
+feature: 2016-07-03/20160228_164412.jpg
+excerpt: Air conditioning was not standard on '70 - '73 240Z LHD models.
+---
+
+Air conditioning was not standard on '70 - '73 240Z LHD models, it was on RHD models.  Instead, Datsun sold the AC units to the dealer and they installed them.  Purists might argue that the AC should be removed in order to restore the 204Z to the original factory specs.  These old units are considered inefficient and reduce the overall horsepower.  Still, it gets hot in Northern California in the summer, and I have the original Air Conditioner Manual.  I don't need to decide until the time comes to put the car back together.  
+
+So far, I removed the condenser and some of the hoses.  This reference picture was helpful from the [Datsun Automotive Repair Manual](https://www.amazon.com/Haynes-Datsun-Manual-1970-1978-Manuals/dp/0856962066). 
+
+![alt]({{ site.url }}/images/references/240Z_air_condition_repair_manual_main_components.jpg)
+
