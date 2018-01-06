@@ -15,4 +15,4 @@ I focused all my effort on learning more about Datsun and the 240Z from when [Yu
 
 This is the car I am going to restore!
 
-[![alt](http://img.youtube.com/vi/ZNUbQSWwBwc/0.jpg)](http://www.youtube.com/watch?v=ZNUbQSWwBwc){:target="_blank"}
+<iframe width="854" height="480" src="https://www.youtube.com/embed/ZNUbQSWwBwc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
