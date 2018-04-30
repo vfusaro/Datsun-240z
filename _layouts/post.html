@@ -15,16 +15,14 @@ layout: default
 	<p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
 	</header>
 
-	<div class="post-content" itemprop="articleBody">
-	{{ content }}
-	</div>
+	<div class="post-content" itemprop="articleBody">{{ content }}</div>
 	{% assign post_image_path = page.feature | split: '/' %}
-	{% for image in site.static_files | sort %}
+	{% for image in site.static_files sort %}
 	    {% if image.path contains post_image_path[0] %}
 	    	{% unless image.path contains page.feature %}
 	    		<div>
 	        		<img src={{ site.url }}{{ image.path }}></img>
-	        	<div>
+	        	</div>
 	        	<br>
 	        {% endunless %}
 	    {% endif %}
